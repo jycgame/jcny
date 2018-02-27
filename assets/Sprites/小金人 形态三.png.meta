@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9815ef50-da90-4f4d-8040-602653702320",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "小金人 形态三": {
+      "ver": "1.0.3",
+      "uuid": "5359f26f-df81-4ec8-b8dc-e2f2cf24595a",
+      "rawTextureUuid": "9815ef50-da90-4f4d-8040-602653702320",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 470,
+      "height": 244,
+      "rawWidth": 470,
+      "rawHeight": 244,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

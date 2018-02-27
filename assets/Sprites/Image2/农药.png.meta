@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cf07a530-f5bf-4ceb-ace6-42192fdeecff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "农药": {
+      "ver": "1.0.3",
+      "uuid": "e095903c-f5f6-4b38-b16a-07824172925d",
+      "rawTextureUuid": "cf07a530-f5bf-4ceb-ace6-42192fdeecff",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 11,
+      "offsetY": 171.5,
+      "trimX": 390,
+      "trimY": 618,
+      "width": 322,
+      "height": 341,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e6897a97-5769-4adf-bc79-deae909f003b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "有机肥": {
+      "ver": "1.0.3",
+      "uuid": "a061ea3a-9817-49b3-8373-9859887432bd",
+      "rawTextureUuid": "e6897a97-5769-4adf-bc79-deae909f003b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 23,
+      "offsetY": 217.5,
+      "trimX": 443,
+      "trimY": 630,
+      "width": 240,
+      "height": 225,
+      "rawWidth": 1080,
+      "rawHeight": 1920,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

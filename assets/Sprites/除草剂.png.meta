@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3bb35b60-f863-445e-995a-80e84009a4a6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "除草剂": {
+      "ver": "1.0.3",
+      "uuid": "a9616da7-840b-42e9-8b9b-318b21f0e871",
+      "rawTextureUuid": "3bb35b60-f863-445e-995a-80e84009a4a6",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 150,
+      "height": 150,
+      "rawWidth": 150,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
